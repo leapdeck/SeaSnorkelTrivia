@@ -25,23 +25,29 @@ Download on the App Store
 
 SeaSnorkel Trivia is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.  
 
-## 🔧 Build
+##  🔧 Build
 
-Build with Android Studio on Windows or Mac to create an **.apk** for side-loading.  
-On macOS, use Xcode + a free developer account to side-load to iPhone.  
-With a yearly developer subscription (Apple or Google), you can publish directly to their app stores.  
+Can build the app with a Windows station and Android Studio. 
+Then Android Studio can provide you an “.apk” file to side-load to your Android phone.
+When you’ve forked the repo to make your own app, you can do a yearly subscription as an Android Developer to publish to their Appstore. 
 
-## 📚🖲️ Coding Editors
+Also can build the app with a Mac station, Xcode, Android Studio and a free developer account : [Create a Free Apple Developer account](https://www.appypie.com/blog/how-to-create-a-free-apple-developer-account)
 
-Bring your own theme to life! Tools like Cursor and Windsurf can assist with A.I.-enhanced coding in Xcode or Android Studio.  
+Then Xcode will let you side-load to your iPhone. When you’ve forked the repo to make your own app, you can do a yearly subscription as an Apple Developer to publish to the Appstore. 
 
-- [Cursor](https://www.cursor.com)  
-- [Windsurf](https://windsurf.com)  
+## 📚🖲️ Coding Editors 
+To develop this app with your own topic or theme, there are a couple of A.I. tools to assist you along the way.  Cursor and Windsurf are A.I. based coding tools you can pull up alongside (vibe) your coding application like Xcode or Android Studio to add more screens, buttons, field elements and features for your app. 
+
+Cursor A.I. coding tool : 
+[Cursor](https://www.cursor.com)
+
+Windsurf A.I. coding tool : 
+[Windsurf](https://windsurf.com)
 
 ## 🤝 Contributing
 
-We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.  
+We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
 
 ## 📬 Contact
 
-For feedback or questions feel free to [message](mailto:leapdeck1@gmail.com) for assistance.  
+For feedback or questions feel free to [message](mailto:leapdeck1@gmail.com) for assistance.
