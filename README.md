@@ -2,6 +2,10 @@
 
 Explore the world’s most stunning snorkeling destinations—each trivia section is organized by world-famous reefs, coasts, and underwater paradises! From tropical lagoons to temperate kelp forests, challenge your knowledge and learn as you dive deeper into marine wonders. 🐢🌴
 
+<p align="center">
+  <img alt="TopBinTrivia" title="TopBinTrivia" src="screenshots/seasnorkelmobile2.png" width=300>
+</p>
+
 ## 🚀 Key Features
 
 🌍 **Discover Global Snorkeling Hotspots**  
