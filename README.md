@@ -19,7 +19,7 @@ Every question is an opportunity to uncover fun facts about the underwater world
 ## 📱 Download for iOS
 
 Download on the App Store  
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)]((https://apps.apple.com/us/app/seasnorkel-trivia/id6747751140))
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/seasnorkel-trivia/id6747751140)
 
 ## 📝 License
 
